@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(to left,violet,pink);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50px;
+    
+    
+
+}
+.navbar a:hover{
+     color:white;
+}
+
